@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To View live, Click This [Link]('https://y81mr.csb.app')
+To View live, Click This [Link Here](https://y81mr.csb.app).
 
 ## Available Scripts
 
